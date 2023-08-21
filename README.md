@@ -3,6 +3,7 @@ This repository is created as a part of my Web Design class.
 Shermukhammad "Daniel" Usmonov. That fella from Uzbekistan.
 
 WNR20230616
+WNR project received 20230820
 ____________________________________________________________
 Appendix A: 
 1. Shermukhammad Usmonov. Student ID: 1129134
