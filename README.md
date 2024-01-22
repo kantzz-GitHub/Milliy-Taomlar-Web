@@ -1,6 +1,6 @@
 # Web_Design_Class
 This repository is created as a part of my Web Design class.
-Shermukhammad "Daniel" Usmonov. That fella from Uzbekistan.
+Shermukhammad "Daniel" Usmonov.
 
 WNR20230616
 WNR project received 20230820
